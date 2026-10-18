@@ -2,7 +2,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg" alt="Norway_FLAG"/>
 A list of OSINT resources and tools that may be useful to you when conducting investigations related to Norway. Most of the resources and tools has versions in Norwegian (Bokmål and Nynorsk), many also in English. Norway is unusually open: the tax lists (income, wealth and tax of every taxpayer) are searchable, the shareholder register is open to anyone on request, and vehicle and aircraft owners can be looked up. Opsec warning: tax-list searches require ID-porten login and are logged, and the person you look up can see your name, birth year and postcode. Many searches (tax lists, vehicle owner, health personnel register) require Norwegian electronic ID (BankID, MinID). The beneficial-owner register opened on 1 October 2024 but is open only to authorities, obliged entities, media, civil-society organisations and universities. Enter names with Norwegian letters (æ, ø, å).
 
-**Last Updated:** 2026-10-13
+![Last updated](https://img.shields.io/github/last-commit/Provereno-Media/OSINT-Tools-Norway?label=Last%20updated)
 
 ## Contributions
 Feel free to join this project — [OSINT For Countries V2.0](https://github.com/Provereno-Media/OSINT-for-countries-V2.0)
